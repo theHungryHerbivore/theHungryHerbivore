@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theHungryHerbivore
-- 👀 I’m interested in creating new things and simplifying existing things.
+- 👀 I'm supremely bullish on AI.
 - 🌱 I’m currently learning DSA, ML, React, System Design.
 - 💞️ I’m looking to collaborate on any exciting product.
 
