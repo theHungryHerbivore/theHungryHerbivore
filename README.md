@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @theHungryHerbivore
-- 👀 I'm supremely bullish on AI.
-- 🌱 I like solving math problems when free.
-- 💞️ I’m looking to collaborate on any exciting product.
+I like reading books about things that I don't know, I beleive our vision is bounded by our knowledge.
+I like to build things.
 
 <!---
 theHungryHerbivore/theHungryHerbivore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
